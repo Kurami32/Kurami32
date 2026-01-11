@@ -8,4 +8,4 @@ When I'm free I like to play music (Teto!), and also play games or view some ani
 
 I'm trying to learn some webdev and have planned to learn some Go too, and maybe Android, idk, we'll see.
 
-(I'm learning a lot from Filebrowser Quantum!)
+(Filebrowser Quantum is one of my fav projects, and I'm learning a lot from it!)
